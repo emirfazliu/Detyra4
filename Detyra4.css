@@ -1,0 +1,191 @@
+
+.upper-container{
+	height: 500px;
+	background-image: url(image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+
+}
+
+
+}
+.first-class{
+	color: white;
+}
+
+
+.second-class h1{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+.butonat button{
+	border-radius: 25px;
+	border-style: none;
+	height: 40px;
+	width: 150px;
+	background-color: rgb(58, 90, 194);
+	color: white;
+}
+#btn1{
+	background-color: rgb(222, 18, 113);
+}
+
+.title h1{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.listat{
+	display: flex;
+	flex-direction: row;
+}
+.listat h4{
+	text-align: center;
+}
+.elementi1{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	padding-left: 150px;
+	
+}
+.elementi1 img{
+	width: 50px;
+	height: 50px;
+}
+.middle{
+	height: 200px;
+	background-image: url(business.jpg);
+	background-image: no-repeat;
+	background-size: cover;
+	text-align: center;
+	justify-content: center;
+
+}
+.middle h2{
+	padding-top: 90px;
+	font-family: sans-serif;
+	color: white;
+
+}
+.ikonat{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+	
+}
+.ikonat img{
+	width: 40px;
+	height: 40px;
+	align-items: center;
+	
+}
+.middle1{
+	padding: 60px;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.middle1 h4{
+	text-align: center;
+	font-family: sans-serif;
+}
+.middle1 p{
+	text-align: center;
+	color: rgb(38,80,186);
+}
+.lower{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	background-color: rgb(230,230,230);
+	font-family: sans-serif;
+	height: 350px;
+
+
+}
+.lower ul{
+	color: rgb(173,168,168);
+}
+
+.lower img{
+	width: 300px;
+	height: 250px;
+	padding: 30px;
+}
+
+.teamprofile{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+}
+.teamprofile img{
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	padding: 40px;
+}
+.team h1{
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.team p{
+	text-align: center;
+	font-family: sans-serif;
+	color:rgb(38,80,186);
+	font-family: serif;
+}
+.personalprofile h4 {
+	text-align: center;
+	color: rgb(38,80,186);
+}
+.personalprofile p{
+	font-size: 10pt;
+	font-family: sans-serif;
+}
+
+
+
+
+.lowbottom{
+	display: flex;
+	flex-direction: row;
+	background-image: url(workspace.jpg);
+	background-size: cover;
+	background-image:no-repeat;
+	height: 470px;
+	padding-top: 50px;
+}
+.leftside{
+	width: 50%;
+	text-align: center;
+	justify-content: center;
+	padding-left: 150px;
+	color: blue;
+
+}
+.lowbottom h2{
+	color: blue;
+	padding-top: 100px;
+	padding-left: 50px;
+}
+.left1{
+	display: inline-flex;
+}
+.left2{
+	display: inline-flex;
+}
